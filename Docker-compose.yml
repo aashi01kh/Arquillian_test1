@@ -2,6 +2,6 @@ version: '3.8'
 
 services:
   spring-app:
-    image: atest1:latest
+    image: aashi01/atest1:latest
     ports:
       - "8080:8080"
